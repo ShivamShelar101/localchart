@@ -1,0 +1,2843 @@
+[
+ {
+  "pid": "10020",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/10029",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/10042",
+    "name": "Pulmonary emphysema"
+   },
+   {
+    "id": "Condition/10231",
+    "name": "Essential hypertension"
+   }
+  ]
+ },
+ {
+  "pid": "10020",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/10633",
+    "name": "albuterol 5 MG/ML Inhalation Solution"
+   },
+   {
+    "id": "MedicationRequest/10636",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/10639",
+    "name": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+   }
+  ]
+ },
+ {
+  "pid": "10020",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "10020",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "10676",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/10685",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/10700",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/10711",
+    "name": "Localized, primary osteoarthritis of the hand"
+   },
+   {
+    "id": "Condition/10729",
+    "name": "Hyperlipidemia"
+   }
+  ]
+ },
+ {
+  "pid": "10676",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/10712",
+    "name": "Naproxen sodium 220 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/10760",
+    "name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/11884",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/11887",
+    "name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]"
+   },
+   {
+    "id": "MedicationRequest/11890",
+    "name": "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+   },
+   {
+    "id": "MedicationRequest/11893",
+    "name": "lisinopril 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/11896",
+    "name": "amLODIPine 2.5 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/11936",
+    "name": "Simvastatin 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "10676",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "10676",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "11946",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "11946",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "11946",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "11946",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "12233",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/12447",
+    "name": "Child attention deficit disorder"
+   }
+  ]
+ },
+ {
+  "pid": "12233",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "12233",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "12233",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "12605",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "12605",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/12980",
+    "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]"
+   }
+  ]
+ },
+ {
+  "pid": "12605",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "12605",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "12988",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/12990",
+    "name": "Chronic intractable migraine without aura"
+   },
+   {
+    "id": "Condition/13002",
+    "name": "Impacted molars"
+   },
+   {
+    "id": "Condition/13008",
+    "name": "Dependent drug abuse"
+   }
+  ]
+ },
+ {
+  "pid": "12988",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/13927",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]"
+   }
+  ]
+ },
+ {
+  "pid": "12988",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "12988",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "13935",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "13935",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/13952",
+    "name": "Loratadine 5 MG Chewable Tablet"
+   },
+   {
+    "id": "MedicationRequest/13955",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+   }
+  ]
+ },
+ {
+  "pid": "13935",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/13944",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/13945",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/13946",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/13947",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/13948",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/13949",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/13950",
+    "name": "Aspirin"
+   },
+   {
+    "id": "AllergyIntolerance/13951",
+    "name": "Peanut"
+   }
+  ]
+ },
+ {
+  "pid": "13935",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "14365",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "14365",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "14365",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "14365",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "14545",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/14810",
+    "name": "Recurrent urinary tract infection"
+   }
+  ]
+ },
+ {
+  "pid": "14545",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "14545",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "14545",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "15036",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "15036",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "15036",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "15036",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "15521",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/15536",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/15546",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/15547",
+    "name": "Metabolic syndrome X"
+   },
+   {
+    "id": "Condition/15557",
+    "name": "Ischemic heart disease"
+   },
+   {
+    "id": "Condition/15610",
+    "name": "Loss of teeth"
+   },
+   {
+    "id": "Condition/16293",
+    "name": "Acute ST segment elevation myocardial infarction"
+   }
+  ]
+ },
+ {
+  "pid": "15521",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/15560",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/15563",
+    "name": "Simvastatin 20 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/15566",
+    "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/15569",
+    "name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+   },
+   {
+    "id": "MedicationRequest/16373",
+    "name": "aspirin 81 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/16376",
+    "name": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/16379",
+    "name": "atorvastatin 20 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/16382",
+    "name": "losartan potassium 100 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/16385",
+    "name": "prasugrel 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/16493",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/16496",
+    "name": "lisinopril 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "15521",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "15521",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "1609",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/1666",
+    "name": "Acquired immune deficiency syndrome"
+   },
+   {
+    "id": "Condition/1672",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/2058",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/2691",
+    "name": "Acute bacterial sinusitis"
+   }
+  ]
+ },
+ {
+  "pid": "1609",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/1633",
+    "name": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/2676",
+    "name": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/2679",
+    "name": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "1609",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/1618",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/1619",
+    "name": "Latex"
+   },
+   {
+    "id": "AllergyIntolerance/1620",
+    "name": "Bee venom"
+   },
+   {
+    "id": "AllergyIntolerance/1621",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/1622",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/1623",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/1624",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/1625",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/1626",
+    "name": "Eggs (edible)"
+   },
+   {
+    "id": "AllergyIntolerance/1627",
+    "name": "Peanut"
+   }
+  ]
+ },
+ {
+  "pid": "1609",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "16528",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "16528",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "16528",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "16528",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "17125",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/17168",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/17175",
+    "name": "Recurrent urinary tract infection"
+   },
+   {
+    "id": "Condition/17207",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/17737",
+    "name": "Hyperlipidemia"
+   }
+  ]
+ },
+ {
+  "pid": "17125",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/17147",
+    "name": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/17904",
+    "name": "Simvastatin 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "17125",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/17134",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/17135",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/17136",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/17137",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/17138",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/17139",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/17140",
+    "name": "Tree nut"
+   },
+   {
+    "id": "AllergyIntolerance/17141",
+    "name": "Peanut"
+   }
+  ]
+ },
+ {
+  "pid": "17125",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "17914",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/17946",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/17966",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/17975",
+    "name": "Sleep disorder"
+   },
+   {
+    "id": "Condition/17981",
+    "name": "Obstructive sleep apnea syndrome"
+   },
+   {
+    "id": "Condition/18023",
+    "name": "Loss of teeth"
+   }
+  ]
+ },
+ {
+  "pid": "17914",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/17938",
+    "name": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/18735",
+    "name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]"
+   },
+   {
+    "id": "MedicationRequest/18738",
+    "name": "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+   }
+  ]
+ },
+ {
+  "pid": "17914",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/17923",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/17924",
+    "name": "Latex"
+   },
+   {
+    "id": "AllergyIntolerance/17925",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/17926",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/17927",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/17928",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/17929",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/17930",
+    "name": "Penicillin V"
+   },
+   {
+    "id": "AllergyIntolerance/17931",
+    "name": "Shellfish"
+   },
+   {
+    "id": "AllergyIntolerance/17932",
+    "name": "Tree nut"
+   }
+  ]
+ },
+ {
+  "pid": "17914",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "18757",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/18765",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/18766",
+    "name": "Chronic kidney disease stage 1"
+   },
+   {
+    "id": "Condition/18767",
+    "name": "Disorder of kidney due to diabetes mellitus"
+   },
+   {
+    "id": "Condition/18775",
+    "name": "Chronic kidney disease stage 2"
+   },
+   {
+    "id": "Condition/18776",
+    "name": "Microalbuminuria due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/18794",
+    "name": "Sleep disorder"
+   },
+   {
+    "id": "Condition/18800",
+    "name": "Obstructive sleep apnea syndrome"
+   },
+   {
+    "id": "Condition/18945",
+    "name": "Chronic kidney disease stage 3"
+   },
+   {
+    "id": "Condition/18946",
+    "name": "Proteinuria due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/19691",
+    "name": "Metabolic syndrome X"
+   },
+   {
+    "id": "Condition/21246",
+    "name": "Polyp of colon"
+   },
+   {
+    "id": "Condition/21702",
+    "name": "Recurrent rectal polyp"
+   },
+   {
+    "id": "Condition/21711",
+    "name": "Malignant neoplasm of colon"
+   }
+  ]
+ },
+ {
+  "pid": "18757",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/23057",
+    "name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+   },
+   {
+    "id": "MedicationRequest/23060",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/23063",
+    "name": "lisinopril 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/23066",
+    "name": "amLODIPine 2.5 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "18757",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "18757",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "23079",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/23087",
+    "name": "Chronic sinusitis"
+   }
+  ]
+ },
+ {
+  "pid": "23079",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/23678",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]"
+   }
+  ]
+ },
+ {
+  "pid": "23079",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "23079",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "23686",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/23688",
+    "name": "Loss of teeth"
+   }
+  ]
+ },
+ {
+  "pid": "23686",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "23686",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "23686",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "23996",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "23996",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "23996",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "23996",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "24162",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/24189",
+    "name": "Hyperlipidemia"
+   },
+   {
+    "id": "Condition/24218",
+    "name": "Sleep disorder"
+   },
+   {
+    "id": "Condition/24224",
+    "name": "Obstructive sleep apnea syndrome"
+   }
+  ]
+ },
+ {
+  "pid": "24162",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/25083",
+    "name": "Simvastatin 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "24162",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "24162",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "25099",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/25109",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/25145",
+    "name": "Hyperlipidemia"
+   },
+   {
+    "id": "Condition/25710",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/25884",
+    "name": "Sleep disorder"
+   },
+   {
+    "id": "Condition/25899",
+    "name": "Sleep apnea"
+   },
+   {
+    "id": "Condition/25916",
+    "name": "Metabolic syndrome X"
+   }
+  ]
+ },
+ {
+  "pid": "25099",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/25991",
+    "name": "Simvastatin 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "25099",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "25099",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "26001",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/26009",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/26011",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/26043",
+    "name": "Metabolic syndrome X"
+   },
+   {
+    "id": "Condition/26116",
+    "name": "Ischemic heart disease"
+   },
+   {
+    "id": "Condition/26298",
+    "name": "Diabetes mellitus type 2"
+   },
+   {
+    "id": "Condition/26299",
+    "name": "Neuropathy due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/26419",
+    "name": "Hyperglycemia"
+   },
+   {
+    "id": "Condition/26420",
+    "name": "Hypertriglyceridemia"
+   },
+   {
+    "id": "Condition/27001",
+    "name": "Chronic congestive heart failure"
+   }
+  ]
+ },
+ {
+  "pid": "26001",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/26152",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/26155",
+    "name": "Simvastatin 20 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/26158",
+    "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/26161",
+    "name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+   },
+   {
+    "id": "MedicationRequest/27845",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/27848",
+    "name": "Furosemide 40 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/27851",
+    "name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/27854",
+    "name": "lisinopril 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "26001",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "26001",
+  "qtype": "absent_med",
+  "question": "Is the patient taking warfarin?",
+  "truth": []
+ },
+ {
+  "pid": "2774",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "2774",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/2789",
+    "name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/2988",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/2991",
+    "name": "Alteplase 100 MG Injection"
+   }
+  ]
+ },
+ {
+  "pid": "2774",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "2774",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "29344",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/29365",
+    "name": "Osteoarthritis of hip"
+   },
+   {
+    "id": "Condition/29547",
+    "name": "Chronic intractable migraine without aura"
+   }
+  ]
+ },
+ {
+  "pid": "29344",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/29368",
+    "name": "Naproxen sodium 220 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "29344",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "29344",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "29903",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/30071",
+    "name": "Chronic sinusitis"
+   }
+  ]
+ },
+ {
+  "pid": "29903",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/29920",
+    "name": "Loratadine 5 MG Chewable Tablet"
+   },
+   {
+    "id": "MedicationRequest/29923",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+   }
+  ]
+ },
+ {
+  "pid": "29903",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/29912",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/29913",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/29914",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/29915",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/29916",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/29917",
+    "name": "Cow's milk"
+   },
+   {
+    "id": "AllergyIntolerance/29918",
+    "name": "Eggs (edible)"
+   },
+   {
+    "id": "AllergyIntolerance/29919",
+    "name": "Peanut"
+   }
+  ]
+ },
+ {
+  "pid": "29903",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "30138",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "30138",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/30703",
+    "name": "{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]"
+   }
+  ]
+ },
+ {
+  "pid": "30138",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "30138",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "30711",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/30775",
+    "name": "Seizure disorder"
+   },
+   {
+    "id": "Condition/30777",
+    "name": "Epilepsy"
+   }
+  ]
+ },
+ {
+  "pid": "30711",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/30815",
+    "name": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]"
+   }
+  ]
+ },
+ {
+  "pid": "30711",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "30711",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "30897",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/30906",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/30915",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/30948",
+    "name": "Sepsis"
+   },
+   {
+    "id": "Condition/30961",
+    "name": "Sleep disorder"
+   },
+   {
+    "id": "Condition/30967",
+    "name": "Obstructive sleep apnea syndrome"
+   }
+  ]
+ },
+ {
+  "pid": "30897",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "30897",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "30897",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "31804",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/31806",
+    "name": "Tricuspid valve regurgitation"
+   },
+   {
+    "id": "Condition/31849",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/31856",
+    "name": "Osteoarthritis of knee"
+   },
+   {
+    "id": "Condition/31866",
+    "name": "Loss of teeth"
+   },
+   {
+    "id": "Condition/31876",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/31884",
+    "name": "Ischemic heart disease"
+   },
+   {
+    "id": "Condition/31908",
+    "name": "Chronic kidney disease stage 1"
+   },
+   {
+    "id": "Condition/31909",
+    "name": "Disorder of kidney due to diabetes mellitus"
+   },
+   {
+    "id": "Condition/31915",
+    "name": "Neoplasm of prostate"
+   },
+   {
+    "id": "Condition/31916",
+    "name": "Carcinoma in situ of prostate"
+   },
+   {
+    "id": "Condition/31924",
+    "name": "Leukemia, disease"
+   },
+   {
+    "id": "Condition/31936",
+    "name": "Chronic kidney disease stage 2"
+   },
+   {
+    "id": "Condition/31937",
+    "name": "Microalbuminuria due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/32312",
+    "name": "Osteoporosis"
+   },
+   {
+    "id": "Condition/35795",
+    "name": "Alzheimer's disease"
+   },
+   {
+    "id": "Condition/40998",
+    "name": "Gingivitis"
+   }
+  ]
+ },
+ {
+  "pid": "31804",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/31827",
+    "name": "24 HR nicotine 0.292 MG/HR Transdermal System"
+   },
+   {
+    "id": "MedicationRequest/31858",
+    "name": "Naproxen sodium 220 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/31885",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/31888",
+    "name": "Simvastatin 20 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/31891",
+    "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/31894",
+    "name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+   },
+   {
+    "id": "MedicationRequest/35855",
+    "name": "Galantamine 4 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/41098",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/41101",
+    "name": "amLODIPine 2.5 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/41104",
+    "name": "Alendronic acid 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "31804",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "31804",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "3299",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/3301",
+    "name": "Adolescent idiopathic scoliosis"
+   }
+  ]
+ },
+ {
+  "pid": "3299",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "3299",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "3299",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "3842",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/3877",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/3889",
+    "name": "Fibromyalgia"
+   },
+   {
+    "id": "Condition/4357",
+    "name": "Diabetes mellitus type 2"
+   },
+   {
+    "id": "Condition/4438",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/4439",
+    "name": "Hypertriglyceridemia"
+   },
+   {
+    "id": "Condition/4560",
+    "name": "Metabolic syndrome X"
+   }
+  ]
+ },
+ {
+  "pid": "3842",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/3853",
+    "name": "Loratadine 5 MG Chewable Tablet"
+   },
+   {
+    "id": "MedicationRequest/3856",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+   },
+   {
+    "id": "MedicationRequest/4908",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]"
+   },
+   {
+    "id": "MedicationRequest/4950",
+    "name": "lisinopril 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/4953",
+    "name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "3842",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/3851",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/3852",
+    "name": "Shellfish"
+   }
+  ]
+ },
+ {
+  "pid": "3842",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "41114",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/41122",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/41141",
+    "name": "Disorder of kidney due to diabetes mellitus"
+   },
+   {
+    "id": "Condition/41149",
+    "name": "Microalbuminuria due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/41155",
+    "name": "Sleep disorder"
+   },
+   {
+    "id": "Condition/41161",
+    "name": "Obstructive sleep apnea syndrome"
+   },
+   {
+    "id": "Condition/41178",
+    "name": "Proteinuria due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/41718",
+    "name": "Metabolic syndrome X"
+   },
+   {
+    "id": "Condition/48077",
+    "name": "Loss of teeth"
+   },
+   {
+    "id": "Condition/49687",
+    "name": "Idiopathic atrophic hypothyroidism"
+   },
+   {
+    "id": "Condition/49688",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/50044",
+    "name": "Ischemic heart disease"
+   }
+  ]
+ },
+ {
+  "pid": "41114",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/49689",
+    "name": "Levothyroxine Sodium 0.075 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50084",
+    "name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+   },
+   {
+    "id": "MedicationRequest/50087",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50090",
+    "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]"
+   },
+   {
+    "id": "MedicationRequest/50093",
+    "name": "amLODIPine 2.5 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50096",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50099",
+    "name": "Simvastatin 20 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50102",
+    "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50105",
+    "name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+   }
+  ]
+ },
+ {
+  "pid": "41114",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "41114",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "4966",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/5241",
+    "name": "Atopic dermatitis"
+   }
+  ]
+ },
+ {
+  "pid": "4966",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/5089",
+    "name": "Loratadine 5 MG Chewable Tablet"
+   },
+   {
+    "id": "MedicationRequest/5092",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+   }
+  ]
+ },
+ {
+  "pid": "4966",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/5065",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/5066",
+    "name": "Latex"
+   },
+   {
+    "id": "AllergyIntolerance/5067",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/5068",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/5069",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/5070",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/5071",
+    "name": "Eggs (edible)"
+   },
+   {
+    "id": "AllergyIntolerance/5072",
+    "name": "Tree nut"
+   }
+  ]
+ },
+ {
+  "pid": "4966",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "50311",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "50311",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/50331",
+    "name": "Fexofenadine hydrochloride 30 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/50334",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+   }
+  ]
+ },
+ {
+  "pid": "50311",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/50320",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/50321",
+    "name": "Latex"
+   },
+   {
+    "id": "AllergyIntolerance/50322",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/50323",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/50324",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/50325",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/50326",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/50327",
+    "name": "Eggs (edible)"
+   },
+   {
+    "id": "AllergyIntolerance/50328",
+    "name": "Wheat"
+   },
+   {
+    "id": "AllergyIntolerance/50329",
+    "name": "Shellfish"
+   },
+   {
+    "id": "AllergyIntolerance/50330",
+    "name": "Tree nut"
+   }
+  ]
+ },
+ {
+  "pid": "50311",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "50616",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/50630",
+    "name": "Impacted molars"
+   },
+   {
+    "id": "Condition/50636",
+    "name": "Chronic intractable migraine without aura"
+   },
+   {
+    "id": "Condition/50642",
+    "name": "Dependent drug abuse"
+   }
+  ]
+ },
+ {
+  "pid": "50616",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "50616",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "50616",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "50958",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/50967",
+    "name": "Chronic sinusitis"
+   }
+  ]
+ },
+ {
+  "pid": "50958",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "50958",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "50958",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "51447",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "51447",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "51447",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "51447",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "51798",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/51806",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/51813",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/51911",
+    "name": "Chronic kidney disease stage 1"
+   },
+   {
+    "id": "Condition/51912",
+    "name": "Disorder of kidney due to diabetes mellitus"
+   },
+   {
+    "id": "Condition/52072",
+    "name": "Chronic kidney disease stage 2"
+   },
+   {
+    "id": "Condition/52073",
+    "name": "Microalbuminuria due to type 2 diabetes mellitus"
+   },
+   {
+    "id": "Condition/52379",
+    "name": "Metabolic syndrome X"
+   }
+  ]
+ },
+ {
+  "pid": "51798",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/53292",
+    "name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+   },
+   {
+    "id": "MedicationRequest/53295",
+    "name": "lisinopril 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "51798",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "51798",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "53319",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/53717",
+    "name": "Gunshot wound"
+   },
+   {
+    "id": "Condition/53718",
+    "name": "Bullet wound"
+   }
+  ]
+ },
+ {
+  "pid": "53319",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "53319",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "53319",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "5368",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/5604",
+    "name": "Perennial allergic rhinitis with seasonal variation"
+   }
+  ]
+ },
+ {
+  "pid": "5368",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/5520",
+    "name": "Loratadine 5 MG Chewable Tablet"
+   },
+   {
+    "id": "MedicationRequest/5523",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+   }
+  ]
+ },
+ {
+  "pid": "5368",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/5497",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/5498",
+    "name": "Latex"
+   },
+   {
+    "id": "AllergyIntolerance/5499",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/5500",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/5501",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/5502",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/5503",
+    "name": "Cow's milk"
+   }
+  ]
+ },
+ {
+  "pid": "5368",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "53731",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/53776",
+    "name": "Asthma"
+   },
+   {
+    "id": "Condition/53783",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/54383",
+    "name": "Hyperlipidemia"
+   }
+  ]
+ },
+ {
+  "pid": "53731",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/53749",
+    "name": "Chlorpheniramine Maleate 2 MG/ML Oral Solution"
+   },
+   {
+    "id": "MedicationRequest/54941",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]"
+   },
+   {
+    "id": "MedicationRequest/54979",
+    "name": "Simvastatin 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/55083",
+    "name": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]"
+   },
+   {
+    "id": "MedicationRequest/55086",
+    "name": "albuterol 0.83 MG/ML Inhalation Solution"
+   }
+  ]
+ },
+ {
+  "pid": "53731",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/53740",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/53741",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/53742",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/53743",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/53744",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/53745",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/53746",
+    "name": "Aspirin"
+   },
+   {
+    "id": "AllergyIntolerance/53747",
+    "name": "Cow's milk"
+   },
+   {
+    "id": "AllergyIntolerance/53748",
+    "name": "Fish"
+   }
+  ]
+ },
+ {
+  "pid": "53731",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "55108",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "55108",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "55108",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "55108",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "55611",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/55978",
+    "name": "Recurrent urinary tract infection"
+   }
+  ]
+ },
+ {
+  "pid": "55611",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "55611",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "55611",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "5629",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/5648",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/5779",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/5780",
+    "name": "Diabetes mellitus type 2"
+   },
+   {
+    "id": "Condition/5879",
+    "name": "Hypertriglyceridemia"
+   },
+   {
+    "id": "Condition/5945",
+    "name": "Metabolic syndrome X"
+   }
+  ]
+ },
+ {
+  "pid": "5629",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/5982",
+    "name": "amLODIPine 2.5 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/5985",
+    "name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "5629",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "5629",
+  "qtype": "absent_med",
+  "question": "Is the patient taking warfarin?",
+  "truth": []
+ },
+ {
+  "pid": "56546",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/56549",
+    "name": "Anemia"
+   }
+  ]
+ },
+ {
+  "pid": "56546",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/56561",
+    "name": "Vitamin B12 5 MG/ML Injectable Solution"
+   }
+  ]
+ },
+ {
+  "pid": "56546",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "56546",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "56833",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/56835",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/57089",
+    "name": "Essential hypertension"
+   }
+  ]
+ },
+ {
+  "pid": "56833",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/57297",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "56833",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "56833",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "57334",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "57334",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "57334",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "57334",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "57526",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "57526",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "57526",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "57526",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "57886",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/57895",
+    "name": "Chronic sinusitis"
+   }
+  ]
+ },
+ {
+  "pid": "57886",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "57886",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "57886",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "6051",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "6051",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "6051",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "6051",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "6439",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "6439",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/6999",
+    "name": "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+   }
+  ]
+ },
+ {
+  "pid": "6439",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "6439",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "7024",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "7024",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": []
+ },
+ {
+  "pid": "7024",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "7024",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "7263",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/7272",
+    "name": "Anemia"
+   },
+   {
+    "id": "Condition/7394",
+    "name": "Loss of teeth"
+   },
+   {
+    "id": "Condition/7747",
+    "name": "Hyperlipidemia"
+   }
+  ]
+ },
+ {
+  "pid": "7263",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/7281",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/7284",
+    "name": "Alteplase 100 MG Injection"
+   },
+   {
+    "id": "MedicationRequest/7900",
+    "name": "Simvastatin 10 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "7263",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "7263",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "7910",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/7952",
+    "name": "Asthma"
+   },
+   {
+    "id": "Condition/7960",
+    "name": "Fibromyalgia"
+   },
+   {
+    "id": "Condition/8175",
+    "name": "Essential hypertension"
+   },
+   {
+    "id": "Condition/8517",
+    "name": "Metabolic syndrome X"
+   }
+  ]
+ },
+ {
+  "pid": "7910",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/7931",
+    "name": "Astemizole 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/8699",
+    "name": "NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]"
+   },
+   {
+    "id": "MedicationRequest/8702",
+    "name": "budesonide 0.25 MG/ML Inhalation Suspension"
+   },
+   {
+    "id": "MedicationRequest/8705",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/8708",
+    "name": "lisinopril 10 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/8711",
+    "name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "7910",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": [
+   {
+    "id": "AllergyIntolerance/7919",
+    "name": "Allergic disposition"
+   },
+   {
+    "id": "AllergyIntolerance/7920",
+    "name": "Latex"
+   },
+   {
+    "id": "AllergyIntolerance/7921",
+    "name": "Mold (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/7922",
+    "name": "House dust mite (organism)"
+   },
+   {
+    "id": "AllergyIntolerance/7923",
+    "name": "Animal dander"
+   },
+   {
+    "id": "AllergyIntolerance/7924",
+    "name": "Grass pollen"
+   },
+   {
+    "id": "AllergyIntolerance/7925",
+    "name": "Tree pollen"
+   },
+   {
+    "id": "AllergyIntolerance/7926",
+    "name": "cefdinir"
+   },
+   {
+    "id": "AllergyIntolerance/7927",
+    "name": "Glycine max"
+   },
+   {
+    "id": "AllergyIntolerance/7928",
+    "name": "Eggs (edible)"
+   },
+   {
+    "id": "AllergyIntolerance/7929",
+    "name": "Shellfish"
+   },
+   {
+    "id": "AllergyIntolerance/7930",
+    "name": "Peanut"
+   }
+  ]
+ },
+ {
+  "pid": "7910",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "8755",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/9323",
+    "name": "Ischemic heart disease"
+   }
+  ]
+ },
+ {
+  "pid": "8755",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/9349",
+    "name": "Clopidogrel 75 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/9352",
+    "name": "Simvastatin 20 MG Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/9355",
+    "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+   },
+   {
+    "id": "MedicationRequest/9358",
+    "name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+   }
+  ]
+ },
+ {
+  "pid": "8755",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "8755",
+  "qtype": "absent_med",
+  "question": "Is the patient taking metformin?",
+  "truth": []
+ },
+ {
+  "pid": "9439",
+  "qtype": "conditions",
+  "question": "What active medical conditions (disorders) does the patient have?",
+  "truth": [
+   {
+    "id": "Condition/9441",
+    "name": "Chronic sinusitis"
+   },
+   {
+    "id": "Condition/9920",
+    "name": "Diabetes mellitus type 2"
+   },
+   {
+    "id": "Condition/9921",
+    "name": "Anemia"
+   }
+  ]
+ },
+ {
+  "pid": "9439",
+  "qtype": "medications",
+  "question": "What medications is the patient currently taking?",
+  "truth": [
+   {
+    "id": "MedicationRequest/9960",
+    "name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet"
+   }
+  ]
+ },
+ {
+  "pid": "9439",
+  "qtype": "allergies",
+  "question": "What allergies does the patient have?",
+  "truth": []
+ },
+ {
+  "pid": "9439",
+  "qtype": "absent_med",
+  "question": "Is the patient taking warfarin?",
+  "truth": []
+ }
+]
