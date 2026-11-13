@@ -110,3 +110,16 @@ def _search_v2(self, q, k=15):
     return ctx
 
 PatientIndex.search_v2 = _search_v2
+
+ACTIVE_WORDS = ("active", "current", "currently", "taking", " now")
+
+def _inactive(c):
+    return "status:" in c["text"] and "status: active" not in c["text"]
+
+def _search_v2(self, q, k=15):
+    ctx = self.search(q, k=k)
+    if any(w in f" {q.lower()} " for w in ACTIVE_WORDS):
+        ctx = [c for c in ctx if not _inactive(c)]
+    return ctx
+
+PatientIndex.search_v2 = _search_v2

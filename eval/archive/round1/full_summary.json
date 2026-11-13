@@ -1,0 +1,23 @@
+{
+ "tag": "full",
+ "mode": "full",
+ "retrieval": "v1",
+ "k": 15,
+ "patients": 20,
+ "questions": 80,
+ "precision": 0.6628941545270146,
+ "recall": 0.8240655895828309,
+ "f1": 0.7347451932645761,
+ "citation_accuracy": 0.6256983240223464,
+ "uncited_bullet_rate": 0.0,
+ "abstention_acc": 0.8823529411764706,
+ "false_abstain_rate": 0,
+ "cold_latency_s": 52.070887649059294,
+ "mean_latency_s": 15.655916213989258,
+ "mean_prompt_tokens": 12243.1,
+ "recall_by_type": {
+  "allergies": 1.0,
+  "conditions": 0.8470414201183432,
+  "medications": 0.740530303030303
+ }
+}

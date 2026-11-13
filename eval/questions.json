@@ -189,7 +189,7 @@
   "truth": [
    {
     "id": "MedicationRequest/12980",
-    "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]"
+    "name": "Trinessa 28 Day pack (ethinyl estradiol / norgestimate)"
    }
   ]
  },
@@ -231,7 +231,7 @@
   "truth": [
    {
     "id": "MedicationRequest/13927",
-    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]"
+    "name": "Jolivette 28 Day pack (norethindrone)"
    }
   ]
  },
@@ -897,7 +897,7 @@
   "truth": [
    {
     "id": "MedicationRequest/23678",
-    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]"
+    "name": "Errin 28 Day pack (norethindrone)"
    }
   ]
  },
@@ -1315,7 +1315,7 @@
   "truth": [
    {
     "id": "MedicationRequest/30703",
-    "name": "{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]"
+    "name": "Yaz 28 Day pack (drospirenone / ethinyl estradiol)"
    }
   ]
  },
@@ -1619,7 +1619,7 @@
    },
    {
     "id": "MedicationRequest/4908",
-    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]"
+    "name": "Jolivette 28 Day pack (norethindrone)"
    },
    {
     "id": "MedicationRequest/4950",
@@ -2189,7 +2189,7 @@
    },
    {
     "id": "MedicationRequest/54941",
-    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]"
+    "name": "Camila 28 Day pack (norethindrone)"
    },
    {
     "id": "MedicationRequest/54979",

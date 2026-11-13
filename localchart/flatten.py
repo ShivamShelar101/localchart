@@ -29,6 +29,15 @@ def _obs_value(r):
              for c in r.get("component", []) if "valueQuantity" in c]
     return "; ".join(parts) or None
 
+
+import re as _re
+def _clean_med(n):
+    m = _re.search(r"\[([^\]]+)\]\s*$", n)
+    if n.startswith("{") and m:
+        ings = sorted({i for i in _re.findall(r"([a-z][a-z ]+?) [\d.]+ MG", n) if "inert" not in i})
+        return f"{m.group(1)} pack ({' / '.join(ings)})" if ings else f"{m.group(1)} pack"
+    return n
+
 def to_chunk(r):
     t = r["resourceType"]
     if t not in KEEP: return None
@@ -45,7 +54,7 @@ def to_chunk(r):
         txt = f"Condition: {_cc(r.get('code'))} (status: {_status(r.get('clinicalStatus'))}, onset {date}{end})"
     elif t == "MedicationRequest":
         date = _d(r.get("authoredOn"))
-        txt = f"Medication: {_cc(r.get('medicationCodeableConcept'))} (status: {r.get('status')}, prescribed {date})"
+        txt = f"Medication: {_clean_med(_cc(r.get('medicationCodeableConcept')))} (status: {r.get('status')}, prescribed {date})"
     elif t == "AllergyIntolerance":
         txt = f"Allergy: {_cc(r.get('code'))} (status: {_status(r.get('clinicalStatus'))})"
     elif t == "Observation":
