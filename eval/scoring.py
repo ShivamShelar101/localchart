@@ -37,6 +37,9 @@ def score(q, ans, by_id):
     return r
 
 def summarize(rows, meta):
+    bad = lambda r: r.get('skipped') or r.get('error') or r['answer'].startswith(('ERROR', 'SKIPPED'))
+    meta = {**meta, 'excluded_questions': sum(1 for r in rows if bad(r))}
+    rows = [r for r in rows if not bad(r)]
     pos = [r for r in rows if r["n_truth"] > 0]
     neg = [r for r in rows if r["n_truth"] == 0]
     P = st.mean(r["precision"] for r in pos) if pos else 0

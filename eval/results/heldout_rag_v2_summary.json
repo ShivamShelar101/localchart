@@ -1,0 +1,23 @@
+{
+ "tag": "heldout_rag_v2",
+ "mode": "rag",
+ "retrieval": "v2",
+ "k": 15,
+ "patients": 36,
+ "questions": 144,
+ "precision": 0.859874574829932,
+ "recall": 0.9173131184291898,
+ "f1": 0.887665642393363,
+ "citation_accuracy": 0.951310861423221,
+ "uncited_bullet_rate": 0.0,
+ "abstention_acc": 0.9090909090909091,
+ "false_abstain_rate": 0.05357142857142857,
+ "cold_latency_s": 5.408465127150218,
+ "mean_latency_s": 3.4365957578023276,
+ "mean_prompt_tokens": 937.0625,
+ "recall_by_type": {
+  "allergies": 0.9795918367346939,
+  "conditions": 0.9427842990342991,
+  "medications": 0.8695652173913043
+ }
+}

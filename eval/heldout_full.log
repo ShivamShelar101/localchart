@@ -1,0 +1,172 @@
+W1113 14:06:24.659000 12739 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 8977.71it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[1/144] conditions  pid=25099  R=0.50 P=1.00  cite=3/3  25.2s  tok=12471
+[2/144] medications pid=25099  R=1.00 P=1.00  cite=1/1  1.5s  tok=12466
+[3/144] allergies   pid=25099  abstain_ok=True  cite=0/0  0.6s  tok=12465
+[4/144] absent_med  pid=25099  abstain_ok=True  cite=0/0  0.6s  tok=12466
+[5/144] conditions  pid=26001  R=0.78 P=0.88  cite=8/8  76.3s  tok=25262
+[6/144] medications pid=26001  R=0.50 P=1.00  cite=0/4  9.6s  tok=25257
+[7/144] allergies   pid=26001  abstain_ok=True  cite=0/0  0.9s  tok=25256
+[8/144] absent_med  pid=26001  abstain_ok=True  cite=0/0  0.8s  tok=25257
+[9/144] conditions  pid=2774   abstain_ok=False  cite=5/5  21.6s  tok=7801
+[10/144] medications pid=2774   R=0.67 P=0.67  cite=2/3  5.5s  tok=7796
+[11/144] allergies   pid=2774   abstain_ok=True  cite=0/0  0.7s  tok=7795
+[12/144] absent_med  pid=2774   abstain_ok=True  cite=0/0  0.6s  tok=7796
+[13/144] conditions  pid=29344  R=1.00 P=0.17  cite=5/12  48.4s  tok=11470
+[14/144] medications pid=29344  R=0.00 P=0.00  cite=0/0  0.7s  tok=11465
+[15/144] allergies   pid=29344  abstain_ok=True  cite=0/0  0.7s  tok=11464
+[16/144] absent_med  pid=29344  abstain_ok=True  cite=0/0  0.6s  tok=11465
+[17/144] conditions  pid=29903  R=1.00 P=1.00  cite=1/1  16.0s  tok=6361
+[18/144] medications pid=29903  R=1.00 P=1.00  cite=2/2  4.6s  tok=6356
+[19/144] allergies   pid=29903  R=1.00 P=1.00  cite=8/8  7.9s  tok=6355
+[20/144] absent_med  pid=29903  abstain_ok=True  cite=0/0  0.6s  tok=6356
+[21/144] conditions  pid=30138  abstain_ok=False  cite=0/5  38.2s  tok=11672
+[22/144] medications pid=30138  R=1.00 P=1.00  cite=1/1  3.0s  tok=11667
+[23/144] allergies   pid=30138  abstain_ok=True  cite=0/0  0.8s  tok=11666
+[24/144] absent_med  pid=30138  abstain_ok=True  cite=0/0  0.7s  tok=11667
+[25/144] conditions  pid=30711  R=1.00 P=0.67  cite=3/3  12.8s  tok=3992
+[26/144] medications pid=30711  R=0.00 P=0.00  cite=0/0  0.6s  tok=3987
+[27/144] allergies   pid=30711  abstain_ok=True  cite=0/0  0.6s  tok=3986
+[28/144] absent_med  pid=30711  abstain_ok=True  cite=0/0  0.6s  tok=3987
+[29/144] conditions  pid=30897  R=1.00 P=0.45  cite=7/11  53.9s  tok=13769
+[30/144] medications pid=30897  abstain_ok=True  cite=0/0  0.8s  tok=13764
+[31/144] allergies   pid=30897  abstain_ok=True  cite=0/0  0.7s  tok=13763
+[32/144] absent_med  pid=30897  abstain_ok=True  cite=0/0  0.7s  tok=13764
+[33/144] conditions  pid=31804  R=0.00 P=0.00  cite=0/0  0.0s  tok=71846 SKIPPED
+[34/144] medications pid=31804  R=0.00 P=0.00  cite=0/0  0.0s  tok=71841 SKIPPED
+[35/144] allergies   pid=31804  abstain_ok=True  cite=0/0  0.0s  tok=71840 SKIPPED
+[36/144] absent_med  pid=31804  abstain_ok=True  cite=0/0  0.0s  tok=71841 SKIPPED
+[37/144] conditions  pid=3299   R=1.00 P=0.50  cite=2/2  25.9s  tok=9489
+[38/144] medications pid=3299   abstain_ok=False  cite=0/1  3.0s  tok=9484
+[39/144] allergies   pid=3299   abstain_ok=True  cite=0/0  0.7s  tok=9483
+[40/144] absent_med  pid=3299   abstain_ok=True  cite=0/0  0.7s  tok=9484
+[41/144] conditions  pid=3842   R=0.67 P=0.80  cite=4/5  67.5s  tok=19285
+[42/144] medications pid=3842   R=0.60 P=1.00  cite=3/3  8.0s  tok=19280
+[43/144] allergies   pid=3842   R=1.00 P=1.00  cite=2/2  3.7s  tok=19279
+[44/144] absent_med  pid=3842   abstain_ok=True  cite=0/0  0.9s  tok=19280
+[45/144] conditions  pid=41114  R=0.00 P=0.00  cite=0/0  0.0s  tok=47114 SKIPPED
+[46/144] medications pid=41114  R=0.00 P=0.00  cite=0/0  0.0s  tok=47109 SKIPPED
+[47/144] allergies   pid=41114  abstain_ok=True  cite=0/0  0.0s  tok=47108 SKIPPED
+[48/144] absent_med  pid=41114  abstain_ok=True  cite=0/0  0.0s  tok=47109 SKIPPED
+[49/144] conditions  pid=4966   R=1.00 P=1.00  cite=1/1  18.3s  tok=6609
+[50/144] medications pid=4966   R=1.00 P=1.00  cite=2/2  4.9s  tok=6604
+[51/144] allergies   pid=4966   R=0.88 P=0.88  cite=7/8  8.3s  tok=6603
+[52/144] absent_med  pid=4966   abstain_ok=True  cite=0/0  0.6s  tok=6604
+[53/144] conditions  pid=50311  abstain_ok=False  cite=1/3  22.8s  tok=7349
+[54/144] medications pid=50311  R=1.00 P=1.00  cite=2/2  3.9s  tok=7344
+[55/144] allergies   pid=50311  R=1.00 P=1.00  cite=11/11  13.2s  tok=7343
+[56/144] absent_med  pid=50311  abstain_ok=True  cite=0/0  0.7s  tok=7344
+[57/144] conditions  pid=50616  R=1.00 P=0.43  cite=7/7  27.1s  tok=6738
+[58/144] medications pid=50616  abstain_ok=True  cite=0/0  0.7s  tok=6733
+[59/144] allergies   pid=50616  abstain_ok=True  cite=0/0  0.7s  tok=6732
+[60/144] absent_med  pid=50616  abstain_ok=True  cite=0/0  0.6s  tok=6733
+[61/144] conditions  pid=50958  R=1.00 P=0.12  cite=4/8  41.0s  tok=9975
+[62/144] medications pid=50958  abstain_ok=True  cite=0/0  0.7s  tok=9970
+[63/144] allergies   pid=50958  abstain_ok=True  cite=0/0  0.7s  tok=9969
+[64/144] absent_med  pid=50958  abstain_ok=True  cite=0/0  0.7s  tok=9970
+[65/144] conditions  pid=51447  abstain_ok=False  cite=0/3  18.3s  tok=5491
+[66/144] medications pid=51447  abstain_ok=True  cite=0/0  0.6s  tok=5486
+[67/144] allergies   pid=51447  abstain_ok=True  cite=0/0  0.6s  tok=5485
+[68/144] absent_med  pid=51447  abstain_ok=True  cite=0/0  0.6s  tok=5486
+[69/144] conditions  pid=51798  R=0.57 P=0.57  cite=6/7  77.3s  tok=19826
+[70/144] medications pid=51798  R=1.00 P=1.00  cite=2/2  6.5s  tok=19821
+[71/144] allergies   pid=51798  abstain_ok=True  cite=0/0  0.9s  tok=19820
+[72/144] absent_med  pid=51798  abstain_ok=True  cite=0/0  0.9s  tok=19821
+[73/144] conditions  pid=53319  R=1.00 P=1.00  cite=2/2  22.1s  tok=7264
+[74/144] medications pid=53319  abstain_ok=True  cite=0/0  0.7s  tok=7259
+[75/144] allergies   pid=53319  abstain_ok=True  cite=0/0  0.7s  tok=7258
+[76/144] absent_med  pid=53319  abstain_ok=True  cite=0/0  0.6s  tok=7259
+[77/144] conditions  pid=5368   R=1.00 P=1.00  cite=1/1  13.9s  tok=4917
+[78/144] medications pid=5368   R=1.00 P=1.00  cite=2/2  4.8s  tok=4912
+[79/144] allergies   pid=5368   R=0.86 P=1.00  cite=1/6  6.1s  tok=4911
+[80/144] absent_med  pid=5368   abstain_ok=True  cite=0/0  0.6s  tok=4912
+[81/144] conditions  pid=53731  R=1.00 P=0.75  cite=4/4  68.2s  tok=19134
+[82/144] medications pid=53731  R=0.80 P=0.80  cite=2/5  13.7s  tok=19129
+[83/144] allergies   pid=53731  R=1.00 P=1.00  cite=9/9  12.3s  tok=19128
+[84/144] absent_med  pid=53731  abstain_ok=True  cite=0/0  0.9s  tok=19129
+[85/144] conditions  pid=55108  abstain_ok=False  cite=2/3  37.6s  tok=11349
+[86/144] medications pid=55108  abstain_ok=True  cite=0/0  0.8s  tok=11344
+[87/144] allergies   pid=55108  abstain_ok=True  cite=0/0  0.7s  tok=11343
+[88/144] absent_med  pid=55108  abstain_ok=True  cite=0/0  0.7s  tok=11344
+[89/144] conditions  pid=55611  R=1.00 P=0.17  cite=3/6  65.0s  tok=16802
+[90/144] medications pid=55611  abstain_ok=True  cite=0/0  0.9s  tok=16797
+[91/144] allergies   pid=55611  abstain_ok=True  cite=0/0  0.9s  tok=16796
+[92/144] absent_med  pid=55611  abstain_ok=True  cite=0/0  0.8s  tok=16797
+[93/144] conditions  pid=5629   R=0.80 P=0.67  cite=5/6  35.9s  tok=9507
+[94/144] medications pid=5629   R=0.00 P=0.00  cite=0/0  0.7s  tok=9502
+[95/144] allergies   pid=5629   abstain_ok=True  cite=0/0  0.7s  tok=9501
+[96/144] absent_med  pid=5629   abstain_ok=True  cite=0/0  0.7s  tok=9502
+[97/144] conditions  pid=56546  R=1.00 P=0.33  cite=3/3  24.2s  tok=7365
+[98/144] medications pid=56546  R=0.00 P=0.00  cite=0/0  0.7s  tok=7360
+[99/144] allergies   pid=56546  abstain_ok=True  cite=0/0  0.7s  tok=7359
+[100/144] absent_med  pid=56546  abstain_ok=True  cite=0/0  0.7s  tok=7360
+[101/144] conditions  pid=56833  R=1.00 P=0.33  cite=6/6  38.6s  tok=10459
+[102/144] medications pid=56833  R=1.00 P=1.00  cite=0/1  2.0s  tok=10454
+[103/144] allergies   pid=56833  abstain_ok=True  cite=0/0  0.8s  tok=10453
+[104/144] absent_med  pid=56833  abstain_ok=True  cite=0/0  0.7s  tok=10454
+[105/144] conditions  pid=57334  abstain_ok=False  cite=2/4  19.9s  tok=5461
+[106/144] medications pid=57334  abstain_ok=True  cite=0/0  0.7s  tok=5456
+[107/144] allergies   pid=57334  abstain_ok=True  cite=0/0  0.7s  tok=5455
+[108/144] absent_med  pid=57334  abstain_ok=True  cite=0/0  0.6s  tok=5456
+[109/144] conditions  pid=57526  abstain_ok=False  cite=0/1  17.0s  tok=5969
+[110/144] medications pid=57526  abstain_ok=True  cite=0/0  0.7s  tok=5964
+[111/144] allergies   pid=57526  abstain_ok=True  cite=0/0  0.7s  tok=5963
+[112/144] absent_med  pid=57526  abstain_ok=True  cite=0/0  0.6s  tok=5964
+[113/144] conditions  pid=57886  R=1.00 P=0.33  cite=3/3  18.0s  tok=5427
+[114/144] medications pid=57886  abstain_ok=True  cite=0/0  0.6s  tok=5422
+[115/144] allergies   pid=57886  abstain_ok=True  cite=0/0  0.7s  tok=5421
+[116/144] absent_med  pid=57886  abstain_ok=True  cite=0/0  0.6s  tok=5422
+[117/144] conditions  pid=6051   abstain_ok=False  cite=3/4  27.9s  tok=8225
+[118/144] medications pid=6051   abstain_ok=True  cite=0/0  0.7s  tok=8220
+[119/144] allergies   pid=6051   abstain_ok=True  cite=0/0  0.7s  tok=8219
+[120/144] absent_med  pid=6051   abstain_ok=True  cite=0/0  0.7s  tok=8220
+[121/144] conditions  pid=6439   abstain_ok=False  cite=5/5  40.0s  tok=11290
+[122/144] medications pid=6439   R=1.00 P=1.00  cite=1/1  2.8s  tok=11285
+[123/144] allergies   pid=6439   abstain_ok=True  cite=0/0  0.8s  tok=11284
+[124/144] absent_med  pid=6439   abstain_ok=True  cite=0/0  0.7s  tok=11285
+[125/144] conditions  pid=7024   abstain_ok=False  cite=3/4  22.0s  tok=5954
+[126/144] medications pid=7024   abstain_ok=True  cite=0/0  0.7s  tok=5949
+[127/144] allergies   pid=7024   abstain_ok=True  cite=0/0  0.7s  tok=5948
+[128/144] absent_med  pid=7024   abstain_ok=True  cite=0/0  0.6s  tok=5949
+[129/144] conditions  pid=7263   R=0.67 P=0.50  cite=4/4  39.5s  tok=11382
+[130/144] medications pid=7263   R=0.33 P=1.00  cite=1/1  2.0s  tok=11377
+[131/144] allergies   pid=7263   abstain_ok=True  cite=0/0  0.8s  tok=11376
+[132/144] absent_med  pid=7263   abstain_ok=True  cite=0/0  0.7s  tok=11377
+[133/144] conditions  pid=7910   R=1.00 P=0.57  cite=7/7  57.2s  tok=14863
+[134/144] medications pid=7910   R=0.83 P=1.00  cite=5/5  14.0s  tok=14858
+[135/144] allergies   pid=7910   R=0.92 P=1.00  cite=11/11  13.6s  tok=14857
+[136/144] absent_med  pid=7910   abstain_ok=True  cite=0/0  0.8s  tok=14858
+[137/144] conditions  pid=8755   R=1.00 P=1.00  cite=1/1  42.7s  tok=13162
+[138/144] medications pid=8755   R=1.00 P=1.00  cite=4/4  7.0s  tok=13157
+[139/144] allergies   pid=8755   abstain_ok=True  cite=0/0  0.8s  tok=13156
+[140/144] absent_med  pid=8755   abstain_ok=True  cite=0/0  0.8s  tok=13157
+[141/144] conditions  pid=9439   R=1.00 P=0.60  cite=4/5  41.8s  tok=11489
+[142/144] medications pid=9439   R=1.00 P=1.00  cite=0/1  2.5s  tok=11484
+[143/144] allergies   pid=9439   abstain_ok=True  cite=0/0  0.9s  tok=11483
+[144/144] absent_med  pid=9439   abstain_ok=True  cite=0/0  0.7s  tok=11484
+
+{
+ "tag": "heldout_full",
+ "mode": "full",
+ "retrieval": "v1",
+ "k": 15,
+ "patients": 36,
+ "excluded_questions": 8,
+ "questions": 136,
+ "precision": 0.734313603063603,
+ "recall": 0.8339362026862027,
+ "f1": 0.7809606549600691,
+ "citation_accuracy": 0.7791164658634538,
+ "uncited_bullet_rate": 0.0,
+ "abstention_acc": 0.8690476190476191,
+ "false_abstain_rate": 0.07692307692307693,
+ "cold_latency_s": 35.94718126689686,
+ "mean_latency_s": 10.595339047558168,
+ "mean_prompt_tokens": 10513.029411764706,
+ "recall_by_type": {
+  "allergies": 0.9498299319727891,
+  "conditions": 0.9159391534391534,
+  "medications": 0.7015873015873015
+ }
+}
